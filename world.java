@@ -9,7 +9,10 @@ public class world {
         System.err.println("hello  world");
         System.err.println("hello  world");
         System.err.println("hello  world");
-        System.err.println("hello  world");
+        System.err.println("Салам ");
+        System.err.println("Салам ");
+        System.err.println("Салам ");
+        System.err.println("Салам ");
 
 
 
